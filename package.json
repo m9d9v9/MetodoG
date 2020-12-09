@@ -2,7 +2,7 @@
   "name": "examen1",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://m9d9.github.io/Examen1/",
+  "homepage": "https://m9d9v9.github.io/MetodoGrafico/",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
@@ -19,7 +19,7 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "predeploy": "npm build",
+    "predeploy": "yarn build",
     "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
