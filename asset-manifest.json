@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/MetodoG/static/css/main.ce4ca2af.chunk.css",
+    "main.js": "/MetodoG/static/js/main.21647997.chunk.js",
+    "main.js.map": "/MetodoG/static/js/main.21647997.chunk.js.map",
+    "runtime-main.js": "/MetodoG/static/js/runtime-main.d8cc4424.js",
+    "runtime-main.js.map": "/MetodoG/static/js/runtime-main.d8cc4424.js.map",
+    "static/css/2.1832cc2a.chunk.css": "/MetodoG/static/css/2.1832cc2a.chunk.css",
+    "static/js/2.2df7eab8.chunk.js": "/MetodoG/static/js/2.2df7eab8.chunk.js",
+    "static/js/2.2df7eab8.chunk.js.map": "/MetodoG/static/js/2.2df7eab8.chunk.js.map",
+    "index.html": "/MetodoG/index.html",
+    "precache-manifest.65d5f615544025774531d4220cb878ef.js": "/MetodoG/precache-manifest.65d5f615544025774531d4220cb878ef.js",
+    "service-worker.js": "/MetodoG/service-worker.js",
+    "static/css/2.1832cc2a.chunk.css.map": "/MetodoG/static/css/2.1832cc2a.chunk.css.map",
+    "static/css/main.ce4ca2af.chunk.css.map": "/MetodoG/static/css/main.ce4ca2af.chunk.css.map",
+    "static/js/2.2df7eab8.chunk.js.LICENSE.txt": "/MetodoG/static/js/2.2df7eab8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d8cc4424.js",
+    "static/css/2.1832cc2a.chunk.css",
+    "static/js/2.2df7eab8.chunk.js",
+    "static/css/main.ce4ca2af.chunk.css",
+    "static/js/main.21647997.chunk.js"
+  ]
+}
